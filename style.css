@@ -2336,8 +2336,8 @@ a.contact-item:hover {
 
 /* Ukuran logo PISCHOCO */
 .navbar .logo img {
-    width: 37px;
-    height: 37px;
+    width: 45px;
+    height: 45px;
     object-fit: contain;
     display: block;
 }
