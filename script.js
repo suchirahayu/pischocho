@@ -3,8 +3,8 @@
 // =========================================
 
 const header = document.getElementById("header");
-const navToggle = document.getElementById("nav-toggle");
-const navMenu = document.getElementById("nav-menu");
+const navToggle = document.getElementById("menuToggle");
+const navMenu = document.getElementById("navMenu");
 const navLinks = document.querySelectorAll(".nav-link");
 const sections = document.querySelectorAll("main section");
 const year = document.getElementById("year");
