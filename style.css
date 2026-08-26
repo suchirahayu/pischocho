@@ -2328,9 +2328,9 @@ a.contact-item:hover {
 /* ================= LOGO HERO ================= */
 
 .hero img.hero-logo {
-  width: 80px !important;
-  height: 80px !important;
-  max-width: 80px !important;
+  width: 100px !important;
+  height: 100px !important;
+  max-width: 100px !important;
   object-fit: contain !important;
   display: block;
   margin: 0 auto;
