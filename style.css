@@ -2327,14 +2327,31 @@ a.contact-item:hover {
 }
 /* ================= LOGO BYTEBITES ================= */
 
-.logo {
+.navbar .logo {
     display: flex;
     align-items: center;
+    gap: 10px;
     text-decoration: none;
 }
 
-.logo img {
-    width: 145px;
-    height: auto;
+/* Ukuran logo PISCHOCO */
+.navbar .logo img {
+    width: 55px;
+    height: 55px;
+    object-fit: contain;
     display: block;
+}
+
+/* Tulisan ByteBites */
+.navbar .logo .brand-name {
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 1;
+    color: #2b1a12;
+    white-space: nowrap;
+}
+
+/* Warna tulisan Byte */
+.navbar .logo .brand-name span {
+    color: #f58200;
 }
