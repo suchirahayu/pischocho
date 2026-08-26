@@ -2325,14 +2325,4 @@ a.contact-item:hover {
     height: 200px;
   }
 }
-/* ================= LOGO HERO ================= */
-
-.hero img.hero-logo {
-  width: 140px !important;
-  height: 140px !important;
-  max-width: 140px !important;
-  object-fit: contain !important;
-  display: block;
-  margin: 0 auto;
-}
 
