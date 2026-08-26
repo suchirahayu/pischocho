@@ -183,6 +183,10 @@ textarea {
   cursor: pointer;
 
   padding: 10px;
+
+  position: relative;
+  z-index: 1002;
+  pointer-events: auto;
 }
 
 .menu-toggle span {
