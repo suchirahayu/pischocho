@@ -2327,16 +2327,12 @@ a.contact-item:hover {
 }
 /* ================= LOGO HERO ================= */
 
-.hero-logo {
-  width: 150px;
-  height: auto;
+.hero img.hero-logo {
+  width: 80px !important;
+  height: 80px !important;
+  max-width: 80px !important;
+  object-fit: contain !important;
   display: block;
   margin: 0 auto;
-}
-
-@media (max-width: 768px) {
-  .hero-logo {
-    width: 120px;
-  }
 }
 
