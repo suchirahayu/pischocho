@@ -2325,4 +2325,16 @@ a.contact-item:hover {
     height: 200px;
   }
 }
+/* ================= LOGO BYTEBITES ================= */
 
+.logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo img {
+    width: 145px;
+    height: auto;
+    display: block;
+}
